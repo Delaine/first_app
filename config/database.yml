@@ -54,7 +54,8 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: chatty_production
+  database: d3m0fg799shaj8
+  host: ec2-54-83-33-14.compute-1.amazonaws.com
   pool: 5
-  username: postgres
-  password: letrell01
+  username: gchvmombzfyrtu
+  password: K85CHEsIcoAw_0Ml8ShgmWNewa
